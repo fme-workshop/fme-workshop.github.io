@@ -10,16 +10,16 @@ title: HCML 2023
 
 # Your name to show in the footer
 author: The organizing comittee
-footerinfo: The website robot logo is modified from a Flaticon logo, created by Slidesgo
+footerinfo: # The website robot logo is modified from a Flaticon logo, created by Slidesgo
 # --- List of links in the navigation bar --- #
 
 navbar-links:
   Organisers: "organisers"
   Speakers: "speakers"
   Program: "program"
-  Call for Papers: "call"
-  Papers: "papers"
-  Sponsors: "sponsors"
+  # Call for Papers: "call"
+  # Papers: "papers"
+  # Sponsors: "sponsors"
 
 # --- Logo --- #
 
