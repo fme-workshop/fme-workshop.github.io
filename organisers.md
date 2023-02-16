@@ -17,7 +17,7 @@ subtitle:
     </div>
     <div class="col-sm">
       <!-- <img class="organiser-img" src='/assets/img/dongki.jpeg'> -->
-      <div class="organiser-name" style="text-align: center;"> <a href="https://dkkim93.github.io/">Dong-Ki Kim</a> <br> <p class='speaker-affiliation'> LG AI Research</p></div>
+      <div class="organiser-name" style="text-align: center;"> <a href="https://dkkim93.github.io/">Dong-Ki Kim</a> <br> <p class='speaker-affiliation'> MIT</p></div>
     </div>
   </div>
     <div class="row">
