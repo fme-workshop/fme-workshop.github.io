@@ -7,24 +7,24 @@ subtitle:
  <div align="center">
   <table>
     <tr>
-      <td>Shimon Whiteson </td>
+      <td><a href="https://www.cs.ox.ac.uk/people/shimon.whiteson/">Shimon Whiteson </a></td>
       <td>(confirmed)</td>
     </tr>
     <tr>
-      <td>Chi Jin</td>
+      <td><a href="https://sites.google.com/view/cjin/home">Chi Jin </a></td>
       <td>(confirmed)</td>
     </tr>
     <tr>
-      <td>Dorsa Sadigh</td>
+      <td><a href="https://dorsa.fyi/">Dorsa Sadigh  </a></td>
       <td>(confirmed)</td>
     </tr>
     <tr>
-      <td>Jacob Andreas</td>
+      <td><a href="https://www.mit.edu/~jda/">Jacob Andreas </a></td>
       <!-- <td>TBD</td> -->
       <td>(confirmed)</td>
     </tr>
       <tr>
-      <td>Been Kim</td>
+      <td><a href="https://beenkim.github.io/">Been Kim </a></td>
       <!-- <td>TBD</td> -->
       <td>(confirmed)</td>
     </tr>

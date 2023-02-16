@@ -33,7 +33,7 @@ subtitle:
   </tr>
   <tr>
     <td>11:15 am</td>
-    <td><b>Invited Talk 3</b> TBD</td>
+    <td><b>Invited Talk 3:</b> TBD</td>
   </tr>
   <tr style='color:darkgray;'>
     <td>11:55 am</td>
