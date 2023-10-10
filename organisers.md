@@ -67,7 +67,6 @@ subtitle:
       <div class="organiser-name" style="text-align: center;"> <a href="https://eugenevinitsky.github.io/">Eugene Vinitsky</a> <br> <p class='speaker-affiliation'> Apple</p></div>
     </div>
    
-
-  </div>
 </div>
+
  </div>
