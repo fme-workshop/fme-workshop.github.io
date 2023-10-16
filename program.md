@@ -9,7 +9,7 @@ subtitle:
 <table>
   <tr>
     <td>8:30 am</td>
-    <td>Opening Remarks</td>
+    <td><b>Opening Remarks</b></td>
   </tr>
   <tr>
     <td>8:40 am</td>
@@ -21,7 +21,7 @@ subtitle:
   </tr>
   <tr>
     <td>9:40 am</td>
-    <td>Poster Session + Demos + Coffee Break (50 min)</td>
+    <td><b>Poster Session + Demos + Coffee Break </b></td>
   </tr>
   
   <tr>
@@ -43,11 +43,11 @@ subtitle:
   </tr>
   <tr>
     <td>1:30 pm</td>
-    <td><b>Contributed talks (Session 2)</b></td>
+    <td><b>Contributed Talks (Session 2)</b></td>
   </tr>
   <tr>
     <td> 2:30 pm </td>
-    <td><b>Invited Talk 5:</b> He He (30 min) - Confirmed </td>
+    <td><b>Invited Talk 5:</b> He He - Confirmed </td>
   </tr>
   <tr>
     <td>3:00 pm</td>
@@ -59,11 +59,11 @@ subtitle:
   </tr>
   <tr>
     <td>4:15 pm</td>
-    <td>Round Table</td>
+    <td><b>Round Table</b></td>
   </tr>
   <tr>
     <td>5:30 pm</td>
-    <td>Concluding remarks and workshop end</td>
+    <td><b>Concluding remarks and workshop end</b></td>
   </tr>
 
 </table>
