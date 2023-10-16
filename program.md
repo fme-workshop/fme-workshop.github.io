@@ -13,23 +13,25 @@ subtitle:
   </tr>
   <tr>
     <td>8:40 am</td>
-    <td><b>Invited talk 1:</b> Blaise Aguera y Arcas (30 min) - Confirmed </td>
+    <td><b>Invited talk 1:</b> Blaise Aguera y Arcas - Confirmed </td>
   </tr>
   <tr>
     <td>9:10 am</td>
-    <td><b>Invited talk 2:</b> Amy Greenwald (30 min) - Confirmed</td>
+    <td><b>Invited talk 2:</b> Amy Greenwald - Confirmed</td>
   </tr>
-  <tr style='color:darkgray;'>
+  <tr>
     <td>9:40 am</td>
     <td>Poster Session + Demos + Coffee Break (50 min)</td>
   </tr>
+  
   <tr>
     <td>10:30 am</td>
     <td><b>Contributed Talks (Session 1)</b></td>
   </tr>
+  
   <tr>
     <td>11:30 am</td>
-    <td><b>Invited Talk 3: Noam Brown</b> TBD</td>
+    <td><b>Invited Talk 3:</b> Noam Brown - Confirmed</td>
   </tr>
   <tr style='color:darkgray;'>
     <td>12:00 pm</td>
@@ -37,7 +39,7 @@ subtitle:
   </tr>
    <tr>
     <td>1:00 pm </td>
-    <td><b>Invited Talk 4:</b> Michael S Bernstein (30 min) - Confirmed </td>
+    <td><b>Invited Talk 4:</b> Michael S Bernstein - Confirmed </td>
   </tr>
   <tr>
     <td>1:30 pm</td>
@@ -45,11 +47,11 @@ subtitle:
   </tr>
   <tr>
     <td> 2:30 pm </td>
-    <td>Invited Talk 5: He He (30 min) - Confirmed </td>
+    <td><b>Invited Talk 5:</b> He He (30 min) - Confirmed </td>
   </tr>
   <tr>
     <td>3:00 pm</td>
-    <td><b>Invited Talk 6:</b> Roberta Raileanu (30 min)</td>
+    <td><b>Invited Talk 6:</b> Roberta Raileanu - Confirmed</td>
   </tr>
     <tr>
     <td>3:30 pm</td>
